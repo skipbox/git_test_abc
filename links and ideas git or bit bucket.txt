@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/21990754/configure-android-studio-with-bitbucket-team-repo
+
+https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
